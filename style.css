@@ -309,3 +309,12 @@ h3 {
     margin-right: 30px;
     border-radius: 50%;
 }
+
+.lines p {
+    padding: 0;
+}
+
+.lines h3 {
+    margin-top: 15px;
+    text-align: left;
+}
