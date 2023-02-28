@@ -292,3 +292,20 @@ h3 {
     text-align: center;
 }
 
+.lines {
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: #faf3ff;
+    padding: 25px;
+    cursor: pointer;
+    display: flex;
+}
+
+.lines img {
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
