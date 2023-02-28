@@ -197,3 +197,7 @@ h3 {
     position: relative;
     overflow: hidden;
 }
+
+.friends-col img {
+    width: 100%;
+}
