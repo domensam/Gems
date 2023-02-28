@@ -201,3 +201,12 @@ h3 {
 .friends-col img {
     width: 100%;
 }
+
+.layer {
+    background: rgba(136, 0, 226, 0.7);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
