@@ -200,6 +200,7 @@ h3 {
 
 .friends-col img {
     width: 100%;
+    display: block;
 }
 
 .layer {
