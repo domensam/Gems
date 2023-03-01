@@ -414,3 +414,13 @@ h3 {
 .about-col p {
     padding: 15px 0 25px;
 }
+
+.purple-btn {
+    border: 1px solid #8030a9;
+    background: transparent;
+    color: #8030a9;
+}
+
+.purple-btn:hover {
+    color: #fff;
+}
