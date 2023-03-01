@@ -557,5 +557,6 @@ h3 {
 .contact-col div h5 {
     font-size: 20px;
     margin-bottom: 5px;
-    color: #8030a9
+    color: #8030a9;
+    font-weight: 400;
 }
