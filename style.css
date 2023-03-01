@@ -425,3 +425,8 @@ h3 {
 .purple-btn:hover {
     color: #fff;
 }
+
+/*--- my-gems --*/
+.my-gems {
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background2.jpg);
+}
