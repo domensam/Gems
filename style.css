@@ -368,3 +368,10 @@ h3 {
     margin-top: 600;
     font-weight: 600;
 }
+
+.icons .fa {
+    color: #8030a9;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
