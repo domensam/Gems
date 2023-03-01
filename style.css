@@ -511,3 +511,8 @@ h3 {
         font-size: 24px;
     }
 }
+
+/*---- Contact Me ---*/
+.contact {
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background4.jpg);
+}
